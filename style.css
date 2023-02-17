@@ -1,0 +1,34 @@
+*{
+margin: 0;
+padding: 0;
+}
+.container{
+/* text-align: center; */
+padding-left: 340px;
+width: 960px;
+padding-top: 200px;
+}
+
+.body{
+
+display: block;
+border: 1px solid black;
+margin: 30px;
+padding: 20px;
+width: 350px;
+
+}
+
+
+.likes{
+  padding-left: 250px;
+  padding-bottom: 20px;
+
+
+}
+/* ////////////////////////////// profile done////////////////// */
+
+
+
+
+
